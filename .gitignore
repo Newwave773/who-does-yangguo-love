@@ -1,0 +1,9 @@
+# IDE / 系统产物
+.screenshots/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 临时文件
+*.tmp
+~$*.docx
